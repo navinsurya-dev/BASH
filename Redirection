@@ -1,0 +1,7 @@
+Redirection:
+
+> - redirect to a file (overwrite)
+
+>> - redirect to a file (append)
+
+2> - redirect only the error message
