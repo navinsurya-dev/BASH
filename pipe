@@ -1,0 +1,11 @@
+Difference between pipe and Redirect in <
+
+
+pipe (|) - passes data from command to command
+
+Redirect in (<) - feeds a file into a command
+
+By default pipe only passes the normal output and not error message
+(stderr) if you want to pipe everything including the error use |&
+
+
